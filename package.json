@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/celiune/secure-web-dev-workshop2#readme",
   "dependencies": {
-    "dotenv": "^16.0.2",
-    "mongoose": "^6.6.2"
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.6.5"
   }
 }
